@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on full stack web development projects.
-- 🌱 I’m currently learning AI and machine learning techniques.
+- 🌱 I’m currently learning web3, blockchain technologies and AI and machine learning techniques.
 - 👯 I’m looking to collaborate on innovative web development and data science projects.
 - 🤔 I’m looking for help with making a difference in the tech world💻🌐🤖.
 - 💬 Ask me about JavaScript, Python, and modern web frameworks.
