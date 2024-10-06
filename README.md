@@ -54,8 +54,9 @@ Here are some ideas to get you started:
 
 ### Projects:
 
-- **Nextgen**: A financial app for Gen Z.
-- **Myflix**: A movie website.
 - **Note it**: A site to streamline my note taking and organize them.
+- **Myflix**: A movie website.
+- **Aisk**: Question any website for information using AI.
+- **Nextgen**: A financial app for Gen Z to manage their finances.
 
 Feel free to check out my repositories and connect with me!
