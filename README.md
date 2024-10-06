@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on full stack web development projects.
-- 🌱 I’m currently learning advanced AI and machine learning techniques.
+- 🌱 I’m currently learning AI and machine learning techniques.
 - 👯 I’m looking to collaborate on innovative web development and data science projects.
-- 🤔 I’m looking for help with optimizing machine learning models.
+- 🤔 I’m looking for help with making a difference in the tech world💻🌐🤖.
 - 💬 Ask me about JavaScript, Python, and modern web frameworks.
 - 📫 How to reach me: [kinyagia2@gmail.com](mailto:kinyagia2@gmail.com)
 - 😄 Pronouns: He/Him
