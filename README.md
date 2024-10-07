@@ -52,11 +52,5 @@ Here are some ideas to get you started:
   ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Projects:
-
-- **Note it**: A site to streamline my note taking and organize them.
-- **Myflix**: A movie website.
-- **Aisk**: Question any website for information using AI.
-- **Nextgen**: A financial app for Gen Z to manage their finances.
 
 Feel free to check out my repositories and connect with me!
