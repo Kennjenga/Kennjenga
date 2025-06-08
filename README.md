@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about JavaScript, Python, and modern web frameworks.
 - 📫 How to reach me: [kinyagia2@gmail.com](mailto:kinyagia2@gmail.com)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love exploring new programming languages and databases.
+- ⚡ Fun fact: I love exploring new programming languages and fintech tech.
 
 ### Languages and Tools:
 
